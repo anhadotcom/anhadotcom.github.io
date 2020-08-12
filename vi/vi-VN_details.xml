@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>Vietnamese</name>
+    <description>Vietnamese Translation of Joomla!</description>
+    <element>pkg_vi-VN</element>
+    <type>package</type>
+    <version>3.2.1.2</version>
+    <downloads>
+      <downloadurl type="full" format="zip">http://joomlacode.org/gf/download/frsrelease/19064/163772/vi-VN_joomla_lang_full_3.2.1v2.zip</downloadurl>
+    </downloads>
+    <targetplatform name="joomla" version="3.([0123456789]|10)"/>
+  </update>
+  <update>
+    <name>Vietnamese</name>
+    <description>Vietnamese Translation of Joomla!</description>
+    <element>pkg_vi-VN</element>
+    <type>package</type>
+    <version>3.2.1.1</version>
+    <downloads>
+      <downloadurl type="full" format="zip">http://joomlacode.org/gf/download/frsrelease/19064/134688/vi-VN_joomla_lang_full_3.2.1v1.zip</downloadurl>
+    </downloads>
+    <targetplatform name="joomla" version="3.([0123456789]|10)"/>
+  </update>
+</updates>
